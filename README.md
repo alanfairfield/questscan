@@ -18,4 +18,4 @@ I initially created this program in BASH, and ported it over to Python for inter
 
 4. Checks attempts to connect to the machine over SSH
 
-5. Checks for basic IOCs, like modifications to /etc/passwd
+5. Checks for basic IOCs
